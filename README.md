@@ -4,7 +4,7 @@
 
 An interactive data app built with Plotly Studio for the Plotly Analytics Vibe-a-Thon (October 2025). TuneStats allows users to explore the musical DNA of thousands of Spotify tracks, revealing the audio features that define hits, artists, and genres through intuitive and visually engaging charts.
 
-**Live App Demo:** (https://lnkd.in/g8ET3aQn)
+**Live App Demo:** (https://b026d2ac-d8cb-4671-99ac-63bd2f727f63.plotly.app)
 
 **Video Walkthrough:** (https://youtu.be/GyRwDJu3kdg)
 
