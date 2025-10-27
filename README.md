@@ -6,7 +6,7 @@ An interactive data app built with Plotly Studio for the Plotly Analytics Vibe-a
 
 **Live App Demo:** (https://lnkd.in/g8ET3aQn)
 
-**Video Walkthrough:** (https://lnkd.in/gBCatXW3)](https://youtu.be/GyRwDJu3kdg)
+**Video Walkthrough:** (https://youtu.be/GyRwDJu3kdg)
 
   ## ✨ Features
 
