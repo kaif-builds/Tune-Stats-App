@@ -1,5 +1,8 @@
 # TuneStats: Visualizing Music DNA and Hit Features
 
+<img width="640" height="480" alt="tunepic copy" src="https://github.com/user-attachments/assets/c9eab05a-9e08-40bc-a196-e6d746943b5f" />
+
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 An interactive data app built with Plotly Studio for the Plotly Analytics Vibe-a-Thon (October 2025). TuneStats allows users to explore the musical DNA of thousands of Spotify tracks, revealing the audio features that define hits, artists, and genres through intuitive and visually engaging charts.
