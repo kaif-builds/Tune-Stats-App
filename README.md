@@ -1,6 +1,8 @@
 # TuneStats: Visualizing Music DNA and Hit Features
 
-<img width="640" height="480" alt="tunepic copy" src="https://github.com/user-attachments/assets/c9eab05a-9e08-40bc-a196-e6d746943b5f" />
+<img width="639" height="314" alt="tunepic copy6 copy" src="https://github.com/user-attachments/assets/279c7707-b2ec-4bf1-be1c-749dc6d4ded2" />
+
+
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
